@@ -1,0 +1,2 @@
+# CUSTOMER-CHURN-PREDICTION-SYSTEM-USING-HISTORICAL-SERVICE-USAGE-CUSTOMER-SUPPORT-INTERACTIONS.
+Customer retention is a critical factor for the success of subscription-based businesses such as telecommunications, banking, insurance, and online service providers. Traditional customer retention strategies rely on manual analysis of historical records, making it difficult to identify customers who are likely to discontinue services.
